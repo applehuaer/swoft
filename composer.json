@@ -44,7 +44,31 @@
   "repositories":[
     {
       "type":"git",
-      "url":"git@gitlab.gongzl.com:common/yii2-lib.git"
+      "url":"git@github.com:swoft-cloud/swoft-core.git"
+    },
+    {
+      "type":"git",
+      "url":"git@github.com:swoft-cloud/swoft-annotation.git"
+    },
+    {
+      "type":"git",
+      "url":"git@github.com:swoft-cloud/swoft-bean.git"
+    },
+    {
+      "type":"git",
+      "url":"git@github.com:swoft-cloud/swoft-event.git"
+    },
+    {
+      "type":"git",
+      "url":"git@github.com:swoft-cloud/swoft-aop.git"
+    },
+    {
+      "type":"git",
+      "url":"git@github.com:swoft-cloud/swoft-config.git"
+    },
+    {
+      "type":"git",
+      "url":"git@github.com:swoft-cloud/swoft-log.git"
     },
     {
       "type":"composer",
