@@ -29,7 +29,6 @@
       "App\\": "app/"
     },
     "files":[
-      "app/Swoft.php",
       "app/Helper/Functions.php"
     ]
   },
