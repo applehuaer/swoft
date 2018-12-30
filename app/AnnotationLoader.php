@@ -4,6 +4,8 @@ namespace App;
 
 /**
  * Annotation parser
+ *
+ * @since 2.0
  */
 class AnnotationLoader extends \Swoft\Annotation\AnnotationLoader
 {
